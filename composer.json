@@ -1,0 +1,11 @@
+{
+  "name": "pawelmysior/sieroty",
+  "description": "Sieroty",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pawel Mysior",
+      "email": "pawelmysior@gmail.com"
+    }
+  ]
+}
